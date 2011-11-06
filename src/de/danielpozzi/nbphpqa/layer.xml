@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN" "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="XML">
+            <file name="de-danielpozzi-nbphpqa-NBPHPQA.instance_hidden"/>
+            <file name="de-danielpozzi-nbphpqa-NBPHPQA.instance">
+                <attr name="delegate" methodvalue="org.openide.awt.Actions.inject"/>
+                <attr name="injectable" stringvalue="de.danielpozzi.nbphpqa.NBPHPQA"/>
+                <attr name="instanceCreate" methodvalue="org.openide.awt.Actions.context"/>
+                <attr name="noIconInMenu" boolvalue="false"/>
+                <attr name="selectionType" stringvalue="EXACTLY_ONE"/>
+                <attr name="type" stringvalue="org.openide.cookies.EditorCookie"/>
+            </file>
+        </folder>
+    </folder>
+  
+    <folder name="Editors">
+        <folder name="AnnotationTypes">
+            <file name="de-danielpozzi-nbphpqa-annotation-warning.xml" url="nbresloc:/de/danielpozzi/nbphpqa/resources/md-warn-annotation.xml"/>
+            <file name="de-danielpozzi-nbphpqa-annotation-error.xml" url="nbresloc:/de/danielpozzi/nbphpqa/resources/md-error-annotation.xml"/>
+        </folder>
+    </folder>
+</filesystem>

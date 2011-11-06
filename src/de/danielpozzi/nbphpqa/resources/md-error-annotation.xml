@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE type PUBLIC
+          "-//NetBeans//DTD annotation type 1.0//EN"
+          "http://www.netbeans.org/dtds/annotation-type-1_0.dtd">
+<type name="de-danielpozzi-nbphpqa-annotation-error"
+      visible="true"
+      glyph="nbresloc:/de/danielpozzi/nbphpqa/resources/mderror.png"
+      highlight="#D5C4B4"
+      browseable="true"
+      type="line"
+      severity="error"
+      custom_sidebar_color="#A52A2A"
+/>

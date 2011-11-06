@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: de.danielpozzi.nbphpqa/0
+OpenIDE-Module-Localizing-Bundle: de/danielpozzi/nbphpqa/Bundle.properties
+OpenIDE-Module-Specification-Version: 0.1.0
+OpenIDE-Module-Layer: de/danielpozzi/nbphpqa/layer.xml
+
